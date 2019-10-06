@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nahheshai.college-costs.com/sitemap.xml
